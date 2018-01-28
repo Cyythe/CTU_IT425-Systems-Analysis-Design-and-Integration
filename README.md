@@ -12,7 +12,17 @@ This was a class project where we were tasked to design a system of our choosing
 * MS Word
 * MS Visio
 
-### Graphics
-* [Inkscape](https://inkscape.org/en/)
-* [Blender 3D](https://www.blender.org/)
+---
+## Concepts Applied
+* Requirements Devevlopment
+* RTM
+* Use Case
+* Data Flow
+* Functional Decomposition
+* QA
+* GUI Design
+* and much more...
 
+---
+## Logo
+* [Inkscape](https://inkscape.org/en/)
