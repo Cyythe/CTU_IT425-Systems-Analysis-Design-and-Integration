@@ -11,5 +11,8 @@ This was a class project where we were tasked to design a system of our choosing
 ## Technologies
 * MS Word
 * MS Visio
-* 
+
+### Graphics
+* [Inkscape](https://inkscape.org/en/)
+* [Blender 3D](https://www.blender.org/)
 
